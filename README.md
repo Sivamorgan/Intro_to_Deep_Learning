@@ -1,1 +1,1 @@
-These are Excercises which were submitted for the lecture Intro to Deep Learning using Jupyter Network/Python during Winter Semester 2024/25.
+This repository deals with some basic introduction to the Deep Learning with some MAchine Learning and basics of Deep Learning using Pytorch
